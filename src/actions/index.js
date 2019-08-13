@@ -1,4 +1,4 @@
-import jsonPlaceholder from "../apis/jsonPlaceholder";
+// import jsonPlaceholder from "../apis/jsonPlaceholder";
 
 export const fetchPosts = () => {
 	console.log('fetchPosts action called')
